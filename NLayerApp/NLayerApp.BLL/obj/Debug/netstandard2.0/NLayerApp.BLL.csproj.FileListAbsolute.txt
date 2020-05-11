@@ -1,0 +1,5 @@
+D:\EDU_C#\asp core\metanit\NLayerApp\NLayerApp.BLL\bin\Debug\netstandard2.0\NLayerApp.BLL.deps.json
+D:\EDU_C#\asp core\metanit\NLayerApp\NLayerApp.BLL\bin\Debug\netstandard2.0\NLayerApp.BLL.dll
+D:\EDU_C#\asp core\metanit\NLayerApp\NLayerApp.BLL\obj\Debug\netstandard2.0\NLayerApp.BLL.csprojAssemblyReference.cache
+D:\EDU_C#\asp core\metanit\NLayerApp\NLayerApp.BLL\obj\Debug\netstandard2.0\NLayerApp.BLL.AssemblyInfoInputs.cache
+D:\EDU_C#\asp core\metanit\NLayerApp\NLayerApp.BLL\obj\Debug\netstandard2.0\NLayerApp.BLL.AssemblyInfo.cs

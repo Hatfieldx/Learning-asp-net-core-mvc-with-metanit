@@ -1,0 +1,11 @@
+D:\EDU_C#\Metanit\TcpChatServer\TcpChatServer\bin\Debug\netcoreapp3.1\TcpChatServer.exe
+D:\EDU_C#\Metanit\TcpChatServer\TcpChatServer\bin\Debug\netcoreapp3.1\TcpChatServer.deps.json
+D:\EDU_C#\Metanit\TcpChatServer\TcpChatServer\bin\Debug\netcoreapp3.1\TcpChatServer.runtimeconfig.json
+D:\EDU_C#\Metanit\TcpChatServer\TcpChatServer\bin\Debug\netcoreapp3.1\TcpChatServer.runtimeconfig.dev.json
+D:\EDU_C#\Metanit\TcpChatServer\TcpChatServer\bin\Debug\netcoreapp3.1\TcpChatServer.dll
+D:\EDU_C#\Metanit\TcpChatServer\TcpChatServer\bin\Debug\netcoreapp3.1\TcpChatServer.pdb
+D:\EDU_C#\Metanit\TcpChatServer\TcpChatServer\obj\Debug\netcoreapp3.1\TcpChatServer.csprojAssemblyReference.cache
+D:\EDU_C#\Metanit\TcpChatServer\TcpChatServer\obj\Debug\netcoreapp3.1\TcpChatServer.AssemblyInfoInputs.cache
+D:\EDU_C#\Metanit\TcpChatServer\TcpChatServer\obj\Debug\netcoreapp3.1\TcpChatServer.AssemblyInfo.cs
+D:\EDU_C#\Metanit\TcpChatServer\TcpChatServer\obj\Debug\netcoreapp3.1\TcpChatServer.dll
+D:\EDU_C#\Metanit\TcpChatServer\TcpChatServer\obj\Debug\netcoreapp3.1\TcpChatServer.pdb

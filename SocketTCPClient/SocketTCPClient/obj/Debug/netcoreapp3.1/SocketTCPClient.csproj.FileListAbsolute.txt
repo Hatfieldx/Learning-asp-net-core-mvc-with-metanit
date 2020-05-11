@@ -1,0 +1,11 @@
+D:\EDU_C#\Metanit\SocketTCPClient\SocketTCPClient\bin\Debug\netcoreapp3.1\SocketTCPClient.exe
+D:\EDU_C#\Metanit\SocketTCPClient\SocketTCPClient\bin\Debug\netcoreapp3.1\SocketTCPClient.deps.json
+D:\EDU_C#\Metanit\SocketTCPClient\SocketTCPClient\bin\Debug\netcoreapp3.1\SocketTCPClient.runtimeconfig.json
+D:\EDU_C#\Metanit\SocketTCPClient\SocketTCPClient\bin\Debug\netcoreapp3.1\SocketTCPClient.runtimeconfig.dev.json
+D:\EDU_C#\Metanit\SocketTCPClient\SocketTCPClient\bin\Debug\netcoreapp3.1\SocketTCPClient.dll
+D:\EDU_C#\Metanit\SocketTCPClient\SocketTCPClient\bin\Debug\netcoreapp3.1\SocketTCPClient.pdb
+D:\EDU_C#\Metanit\SocketTCPClient\SocketTCPClient\obj\Debug\netcoreapp3.1\SocketTCPClient.csprojAssemblyReference.cache
+D:\EDU_C#\Metanit\SocketTCPClient\SocketTCPClient\obj\Debug\netcoreapp3.1\SocketTCPClient.AssemblyInfoInputs.cache
+D:\EDU_C#\Metanit\SocketTCPClient\SocketTCPClient\obj\Debug\netcoreapp3.1\SocketTCPClient.AssemblyInfo.cs
+D:\EDU_C#\Metanit\SocketTCPClient\SocketTCPClient\obj\Debug\netcoreapp3.1\SocketTCPClient.dll
+D:\EDU_C#\Metanit\SocketTCPClient\SocketTCPClient\obj\Debug\netcoreapp3.1\SocketTCPClient.pdb

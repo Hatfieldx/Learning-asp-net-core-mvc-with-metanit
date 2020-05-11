@@ -1,0 +1,11 @@
+D:\EDU_C#\Metanit\SocketTcpServer\SocketTcpServer\bin\Debug\netcoreapp3.1\SocketTcpServer.exe
+D:\EDU_C#\Metanit\SocketTcpServer\SocketTcpServer\bin\Debug\netcoreapp3.1\SocketTcpServer.deps.json
+D:\EDU_C#\Metanit\SocketTcpServer\SocketTcpServer\bin\Debug\netcoreapp3.1\SocketTcpServer.runtimeconfig.json
+D:\EDU_C#\Metanit\SocketTcpServer\SocketTcpServer\bin\Debug\netcoreapp3.1\SocketTcpServer.runtimeconfig.dev.json
+D:\EDU_C#\Metanit\SocketTcpServer\SocketTcpServer\bin\Debug\netcoreapp3.1\SocketTcpServer.dll
+D:\EDU_C#\Metanit\SocketTcpServer\SocketTcpServer\bin\Debug\netcoreapp3.1\SocketTcpServer.pdb
+D:\EDU_C#\Metanit\SocketTcpServer\SocketTcpServer\obj\Debug\netcoreapp3.1\SocketTcpServer.csprojAssemblyReference.cache
+D:\EDU_C#\Metanit\SocketTcpServer\SocketTcpServer\obj\Debug\netcoreapp3.1\SocketTcpServer.AssemblyInfoInputs.cache
+D:\EDU_C#\Metanit\SocketTcpServer\SocketTcpServer\obj\Debug\netcoreapp3.1\SocketTcpServer.AssemblyInfo.cs
+D:\EDU_C#\Metanit\SocketTcpServer\SocketTcpServer\obj\Debug\netcoreapp3.1\SocketTcpServer.dll
+D:\EDU_C#\Metanit\SocketTcpServer\SocketTcpServer\obj\Debug\netcoreapp3.1\SocketTcpServer.pdb

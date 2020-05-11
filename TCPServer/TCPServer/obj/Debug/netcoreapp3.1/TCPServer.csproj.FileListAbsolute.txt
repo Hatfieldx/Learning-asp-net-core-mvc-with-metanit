@@ -1,0 +1,11 @@
+D:\EDU_C#\Metanit\TCPServer\TCPServer\bin\Debug\netcoreapp3.1\TCPServer.exe
+D:\EDU_C#\Metanit\TCPServer\TCPServer\bin\Debug\netcoreapp3.1\TCPServer.deps.json
+D:\EDU_C#\Metanit\TCPServer\TCPServer\bin\Debug\netcoreapp3.1\TCPServer.runtimeconfig.json
+D:\EDU_C#\Metanit\TCPServer\TCPServer\bin\Debug\netcoreapp3.1\TCPServer.runtimeconfig.dev.json
+D:\EDU_C#\Metanit\TCPServer\TCPServer\bin\Debug\netcoreapp3.1\TCPServer.dll
+D:\EDU_C#\Metanit\TCPServer\TCPServer\bin\Debug\netcoreapp3.1\TCPServer.pdb
+D:\EDU_C#\Metanit\TCPServer\TCPServer\obj\Debug\netcoreapp3.1\TCPServer.csprojAssemblyReference.cache
+D:\EDU_C#\Metanit\TCPServer\TCPServer\obj\Debug\netcoreapp3.1\TCPServer.AssemblyInfoInputs.cache
+D:\EDU_C#\Metanit\TCPServer\TCPServer\obj\Debug\netcoreapp3.1\TCPServer.AssemblyInfo.cs
+D:\EDU_C#\Metanit\TCPServer\TCPServer\obj\Debug\netcoreapp3.1\TCPServer.dll
+D:\EDU_C#\Metanit\TCPServer\TCPServer\obj\Debug\netcoreapp3.1\TCPServer.pdb

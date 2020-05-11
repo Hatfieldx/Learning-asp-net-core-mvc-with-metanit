@@ -1,0 +1,4 @@
+D:\EDU_C#\asp core\metanit\OnionApp\OnionApp.Infrastructure.Data\bin\Debug\netstandard2.0\OnionApp.Infrastructure.Data.deps.json
+D:\EDU_C#\asp core\metanit\OnionApp\OnionApp.Infrastructure.Data\bin\Debug\netstandard2.0\OnionApp.Infrastructure.Data.dll
+D:\EDU_C#\asp core\metanit\OnionApp\OnionApp.Infrastructure.Data\obj\Debug\netstandard2.0\OnionApp.Infrastructure.Data.AssemblyInfoInputs.cache
+D:\EDU_C#\asp core\metanit\OnionApp\OnionApp.Infrastructure.Data\obj\Debug\netstandard2.0\OnionApp.Infrastructure.Data.AssemblyInfo.cs

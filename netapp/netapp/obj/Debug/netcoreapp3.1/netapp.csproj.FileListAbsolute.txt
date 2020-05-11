@@ -1,0 +1,11 @@
+D:\EDU_C#\Metanit\netapp\netapp\bin\Debug\netcoreapp3.1\netapp.exe
+D:\EDU_C#\Metanit\netapp\netapp\bin\Debug\netcoreapp3.1\netapp.deps.json
+D:\EDU_C#\Metanit\netapp\netapp\bin\Debug\netcoreapp3.1\netapp.runtimeconfig.json
+D:\EDU_C#\Metanit\netapp\netapp\bin\Debug\netcoreapp3.1\netapp.runtimeconfig.dev.json
+D:\EDU_C#\Metanit\netapp\netapp\bin\Debug\netcoreapp3.1\netapp.dll
+D:\EDU_C#\Metanit\netapp\netapp\bin\Debug\netcoreapp3.1\netapp.pdb
+D:\EDU_C#\Metanit\netapp\netapp\obj\Debug\netcoreapp3.1\netapp.csprojAssemblyReference.cache
+D:\EDU_C#\Metanit\netapp\netapp\obj\Debug\netcoreapp3.1\netapp.AssemblyInfoInputs.cache
+D:\EDU_C#\Metanit\netapp\netapp\obj\Debug\netcoreapp3.1\netapp.AssemblyInfo.cs
+D:\EDU_C#\Metanit\netapp\netapp\obj\Debug\netcoreapp3.1\netapp.dll
+D:\EDU_C#\Metanit\netapp\netapp\obj\Debug\netcoreapp3.1\netapp.pdb
