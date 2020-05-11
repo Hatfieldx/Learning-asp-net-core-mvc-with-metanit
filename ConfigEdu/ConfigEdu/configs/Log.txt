@@ -1,0 +1,1 @@
+﻿Error infoNow listening on: http://localhost:5000Application started. Press Ctrl+C to shut down.Hosting environment: DevelopmentContent root path: D:\EDU_C#\asp core\metanit\ConfigEdu\ConfigEduProcess info Application is shutting down...Error info

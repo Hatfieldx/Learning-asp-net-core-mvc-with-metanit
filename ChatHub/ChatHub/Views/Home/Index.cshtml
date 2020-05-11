@@ -1,0 +1,50 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>View</title>
+</head>
+<body>
+
+    <form method="post">
+        <input  type="text" name="product" id="product"/>
+        <input type="submit" id="submitForm" value="Send" />
+    </form>
+    <div id="notify"></div>
+
+    <script src="js/signalr/dist/browser/signalr.min.js"></script>
+    <script>
+        const hub = new signalR.HubConnectionBuilder()
+            .withUrl("/chat")
+            .build();
+        let connectionId = "";
+
+        hub.on('Notify', function (message) {
+
+            let d = document.createElement("p");
+            d.appendChild(document.createTextNode(message));
+
+            document.getElementById('notify').appendChild(d);
+        });
+
+        var btn = document.getElementById("submitForm").addEventListener('click', function (e) {
+            e.preventDefault();
+            const data = new FormData();
+
+            data.append("product", document.getElementById("product").value);
+            data.append("connectionId", connectionId);
+
+            fetch("home/create", { method: "Post", body: data })
+                .catch(error => console.error("error: ", error));
+        });
+
+        hub.start().then(() => connectionId = hub.connectionId);
+    </script>
+</body>
+</html>

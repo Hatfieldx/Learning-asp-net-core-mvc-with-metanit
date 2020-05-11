@@ -1,0 +1,17 @@
+﻿@page
+@model RazorPagesApp.Pages.IndexModel
+@{
+    ViewData["Title"] = "Razor page";
+}
+
+@if (Model.IsCorrect)
+{
+    <p>Name: <b>@Model.Name</b></p>
+    <p>Age: <b>@Model.Age</b></p>
+}
+else
+{
+    <p>Переданы некорректные данные</p>
+}
+
+<a href="Exchange">Exchange</a> <a href="Person">Person</a>

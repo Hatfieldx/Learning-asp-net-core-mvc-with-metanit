@@ -1,0 +1,27 @@
+﻿@page
+@model RazorPagesApp.ExchangeModel
+@{
+    ViewData["Title"] = "Обмен валюты";
+}
+
+@functions{
+        public void OnPost(int? summ)
+        {
+            
+        if (summ == null || summ<1000)
+            {
+                Model.Message = "Передана некорректная сумма";
+            }
+            else
+            {
+                decimal result = summ.Value / Model.currentRate;
+                // ToString("F2") - форматирование числа: F2 - дробное число с 2 знаками после запятой
+                Model.Message = $"При обмене {summ} рублей вы получите {result.ToString("F2")}$.";
+            }
+        }} 
+
+<h2>@Model.Message</h2>
+<form method="post">
+    <input type="number" name="summ" />
+    <input type="submit" value="Send" />
+</form>

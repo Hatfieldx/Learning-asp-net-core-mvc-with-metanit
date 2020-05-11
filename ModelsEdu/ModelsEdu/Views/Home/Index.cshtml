@@ -1,0 +1,33 @@
+﻿@model IndexViewModel
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+<div>
+    <form class="form-inline" method="post">
+        <div>
+            <label for="companyId">Choose company</label>
+            <select class="form-control" name="companyId">                
+                @foreach (var item in Model.Companies)
+                {
+                    <option value=@item.Id>@item.Name</option>
+                }
+            </select>
+            <label for="submit_button"></label>
+            <input type="submit" name="submit_button" />
+        </div>
+    </form>
+
+</div>
+<table class="table table-dark">    
+        @foreach (var item in Model.Phones)
+        {
+            <tr><td>@item.Name</td><td>@item.Manufacturer?.Name</td><td>@item.Price</td></tr>   
+        }   
+</table>
+
+<a href="Events">View events</a>

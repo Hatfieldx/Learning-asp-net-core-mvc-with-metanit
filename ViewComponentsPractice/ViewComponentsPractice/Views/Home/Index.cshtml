@@ -1,0 +1,21 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+
+<div style="border:2px solid black">
+    <form asp-action="GenerateUsers" method="get">
+        <label for="count">Input users count</label>
+        <input type="number" name="count" placeholder="0" min="1" required/>
+        <input type="submit"  value="Generate"/>
+    </form>
+</div>
+
+<div>
+   @*@ @await Component.InvokeAsync("ShowUsers")*@
+    <vc:show-users/>
+</div>

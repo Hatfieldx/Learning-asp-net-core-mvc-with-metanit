@@ -1,0 +1,15 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+@{
+    User tom = new User { Name = "Tom", Age = 35 };
+    User alice = new User { Name = "Alice", Age = 29 };
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+
+<p>@await Component.InvokeAsync("Timer", new {fullTime = false, user = tom })</p>
+<p><vc:timer full-time="false" user="alice"/></p>

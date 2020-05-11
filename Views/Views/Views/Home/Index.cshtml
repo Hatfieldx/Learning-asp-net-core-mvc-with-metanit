@@ -1,0 +1,44 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+    Person p = new Person();
+    Person p1 = new Person();
+    Layout = "~/Views/Shared/_Master.cshtml";
+}
+
+@functions
+{
+    public string GetValue(string val)
+    {
+
+        return val;
+    }
+
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+
+
+
+<div>
+
+    @await Html.PartialAsync("_GetMessage", new List<string> {DayOfWeek.Monday.ToString()
+                                                                ,DayOfWeek.Tuesday.ToString()
+                                                                ,DayOfWeek.Wednesday.ToString()
+                                                                ,DayOfWeek.Thursday.ToString()
+                                                                ,DayOfWeek.Friday.ToString()
+                                                                ,DayOfWeek.Saturday.ToString()
+                                                                ,DayOfWeek.Sunday.ToString()})
+
+</div>
+
+@section Footer{
+
+    <p>Все права защищены. Site Corp. 2016.</p>
+    @inject Views.Services.ITimer Timer
+
+    <p>Current time: @Timer.GetCurrentTime()</p>
+
+}

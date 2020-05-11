@@ -1,0 +1,10 @@
+D:\EDU_C#\asp core\metanit\JWTApp\JWTApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\EDU_C#\asp core\metanit\JWTApp\JWTApp\bin\Debug\netcoreapp3.1\appsettings.json
+D:\EDU_C#\asp core\metanit\JWTApp\JWTApp\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\EDU_C#\asp core\metanit\JWTApp\JWTApp\bin\Debug\netcoreapp3.1\JWTApp.exe
+D:\EDU_C#\asp core\metanit\JWTApp\JWTApp\obj\Debug\netcoreapp3.1\JWTApp.csprojAssemblyReference.cache
+D:\EDU_C#\asp core\metanit\JWTApp\JWTApp\obj\Debug\netcoreapp3.1\staticwebassets\JWTApp.StaticWebAssets.Manifest.cache
+D:\EDU_C#\asp core\metanit\JWTApp\JWTApp\obj\Debug\netcoreapp3.1\staticwebassets\JWTApp.StaticWebAssets.xml
+D:\EDU_C#\asp core\metanit\JWTApp\JWTApp\obj\Debug\netcoreapp3.1\JWTApp.AssemblyInfoInputs.cache
+D:\EDU_C#\asp core\metanit\JWTApp\JWTApp\obj\Debug\netcoreapp3.1\JWTApp.AssemblyInfo.cs
+D:\EDU_C#\asp core\metanit\JWTApp\JWTApp\obj\Debug\netcoreapp3.1\JWTApp.RazorTargetAssemblyInfo.cache
